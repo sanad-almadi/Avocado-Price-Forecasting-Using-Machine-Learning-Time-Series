@@ -12,6 +12,7 @@ The dataset(Demand_Sale.csv): includes detailed order-level information such as 
 🧹 Data Preparation & Cleaning
 
 Handling missing values.
+
 Converting data types 
 Standardizing category labels ( CNV vs cnv).
 Removing invalid or duplicate entries.
