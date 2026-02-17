@@ -1,10 +1,12 @@
 # Avocado-Price-Forecasting-Using-Machine-Learning-Time-Series
 
 
-#📌Project Overview
+📌Project Overview
+
 This project aims to analyze avocado sales data over time to understand demand patterns and pricing behavior across different regions, and to build a model that forecasts product prices for the next four weeks.
 
 📂 Dataset Information
+
 The dataset includes detailed order-level information such as date, product size, product type (Conventional or Organic), quantity sold, region, and price per case.
 
 
