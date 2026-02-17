@@ -12,11 +12,8 @@ The dataset(Demand_Sale.csv): includes detailed order-level information such as 
 🧹 Data Preparation & Cleaning
 
 Handling missing values.
-
 Converting data types 
-
 Standardizing category labels ( CNV vs cnv).
-
 Removing invalid or duplicate entries.
 
 
@@ -24,24 +21,17 @@ Removing invalid or duplicate entries.
 🔎(EDA) was conducted to identify:
 
 Sales trends over time.
-
 Regional differences in demand.
-
 Performance of different product sizes.
-
 Price behavior and volatility.
-
 Relationships between price and quantity.
 
 
 ⚙️ Feature Engineering
 
 Time-based features: week, month, year extracted from the date.
-
 Lag features: previous week’s price or quantity.
-
 Rolling averages:  average price or quantity over past 2–4 weeks.
-
 Encoding categorical variables: convert regions, product type, and sizes into numeric.
 
 
